@@ -52,6 +52,13 @@ $ CONFIG_FILE=config.json QUOTES_FILE=quotes.json OUTPUT_FILE=output.png go run 
 
 で実行できます。
 
+もしくはリリースページからバイナリをダウンロードして以下のように実行するか。
+
+```
+$ CONFIG_FILE=config.json QUOTES_FILE=quotes.json OUTPUT_FILE=output.png ./gen-ramen34
+```
+
+
 ## TO DO
 
 * そのうち、 GoReleaser と GitHub Action でバイナリを自動的にリリースできるようにします。
