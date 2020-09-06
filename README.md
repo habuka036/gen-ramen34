@@ -16,7 +16,7 @@
 
 つまり、こんな画像を生成します。
 
-![ラーメン三銃士](https://github.com/habuka036/gen-ramen34/blob/ramen34.png)
+![ラーメン三銃士](https://github.com/habuka036/gen-ramen34/blob/master/ramen34.png)
 
 画像は[いらすとや](https://www.irasutoya.com/)さんから拝借し、某料理漫画の著作権には触れないつもりで作りましたが…もしかしてコマ割とかセリフとかもアウトだったりする？
 
